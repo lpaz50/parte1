@@ -1,2 +1,3 @@
-# parte1
-parte 1
+# Encabazedo 1
+## Encabezado 2
+### Encabezado 3
